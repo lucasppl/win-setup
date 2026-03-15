@@ -56,7 +56,6 @@
             "keys": "alt+shift+d"
         }
     ],
-    "launchMode": "focus",
     "newTabMenu": 
     [
         {
@@ -73,7 +72,7 @@
             "font": 
             {
                 "cellHeight": "1.3",
-                "face": "JetBrainsMono Nerd Font",
+                "face": "JetBrainsMono NF",
                 "size": 13
             },
             "opacity": 100
@@ -133,13 +132,13 @@
                 {
                     "cellHeight": "1.3",
                     "face": "JetBrainsMono Nerd Font",
-                    "size": 13,
+                    "size": 12,
                     "weight": "normal"
                 },
                 "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
                 "hidden": false,
                 "intenseTextStyle": "bright",
-                "name": "Ubuntu",
+                "name": "Prompt de Comando",
                 "opacity": 100,
                 "padding": "10",
                 "scrollbarState": "hidden",
@@ -154,7 +153,7 @@
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": true,
-                "name": "Ubuntu",
+                "name": "Promp de Comando",
                 "padding": "15",
                 "source": "Windows.Terminal.Wsl"
             }
@@ -163,7 +162,7 @@
     "schemes": 
     [
         {
-            "background": "#1E1E2E",
+            "background": "#3c3836",
             "black": "#45475A",
             "blue": "#89B4FA",
             "brightBlack": "#585B70",
@@ -186,7 +185,7 @@
             "yellow": "#F9E2AF"
         },
         {
-            "background": "#24273A",
+            "background": "#3c3836",
             "black": "#0C0C0C",
             "blue": "#0037DA",
             "brightBlack": "#767676",
@@ -232,7 +231,7 @@
             "yellow": "#FFCB6B"
         },
         {
-            "background": "#24273A",
+            "background": "#3c3836",
             "black": "#0C0C0C",
             "blue": "#0037DA",
             "brightBlack": "#767676",
@@ -255,7 +254,7 @@
             "yellow": "#C19C00"
         },
         {
-            "background": "#24273A",
+            "background": "#3c3836",
             "black": "#494D64",
             "blue": "#8AADF4",
             "brightBlack": "#5B6078",
@@ -287,15 +286,15 @@
             "name": "Catppuccin Macchiato",
             "tab": 
             {
-                "background": "#24273AFF",
+                "background": "#3c3836",
                 "iconStyle": "default",
                 "showCloseButton": "always",
                 "unfocusedBackground": null
             },
             "tabRow": 
             {
-                "background": "#24273AFF",
-                "unfocusedBackground": "#24273AFF"
+                "background": "#3c3836",
+                "unfocusedBackground": "#3c3836"
             },
             "window": 
             {
